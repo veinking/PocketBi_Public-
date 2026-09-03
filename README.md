@@ -1,12 +1,15 @@
 # PocketBI
 
-**Practical software for modern data work.**
+**Practical data analytics and business intelligence tools for modern data work.**
 
-PocketBI is a connected family of focused tools for cleaning, transforming, analyzing, visualizing, comparing, and coding with data. The goal is simple: start with a file or business workflow, use the smallest tool that solves the job, and move forward without turning basic data work into an infrastructure project.
+PocketBI is a connected family of focused tools for **CSV and Excel cleaning, data quality, transformation, SQL/Python/R analysis, visualization, reconciliation, coding, and repeatable business workflows**. The goal is simple: start with a file or business workflow, use the smallest tool that solves the job, and move forward without turning basic data work into an infrastructure project.
 
 This repository is the **public documentation and product-information home for the PocketBI ecosystem**. It intentionally does **not** contain the proprietary production source code, private infrastructure configuration, credentials, internal security details, customer data, or release-only implementation notes for the commercial products.
 
 > Public product information belongs here. Private implementation details stay private.
+
+> [!IMPORTANT]
+> **PocketBI is under active development.** Product capabilities, interfaces, availability labels, screenshots, documentation, pricing, and workflows may change as testing and development continue. A feature described as planned, beta, preview, active development, or pre-release should not be treated as generally available until the relevant public product surface says otherwise. For the latest public snapshot, see [`docs/STATUS.md`](docs/STATUS.md).
 
 ## Start here
 
@@ -175,4 +178,4 @@ See [`LICENSE.md`](LICENSE.md).
 
 ---
 
-**PocketBI** — practical tools for data cleaning, analysis, visualization, comparison, coding, and repeatable business workflows.
+**PocketBI** — data analytics, business intelligence, data cleaning, visualization, reconciliation, coding, and repeatable workflows across web and iPhone.
