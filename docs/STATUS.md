@@ -2,6 +2,9 @@
 
 **Status date:** September 3, 2026
 
+> [!IMPORTANT]
+> **The PocketBI ecosystem is being actively developed, tested, and refined.** Public product surfaces may change as features move through testing, beta, release, and follow-up fixes. Documentation in this repository is a best-current public snapshot, not a guarantee that every described capability, interface, price, status label, or workflow will remain unchanged.
+
 This page is a public-facing snapshot of product availability and maturity. It intentionally avoids private release-candidate details, internal defect ledgers, security-sensitive implementation notes, deployment credentials, private build identifiers, and unreleased source information.
 
 Status labels are descriptive rather than contractual. Individual features can move between preview, beta, and general availability as the products evolve.
